@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uriuriboo
-- 👀 I’m interested in mathmatics,physics and mathematical engineering.
+- 👀 I’m interested in software engineering, algorithm and mathmathics.
 - My hobby is competitive proguraming contest
-- 🌱 I’m currently learning algorithm,Statistical mechanics and math.
+- 🌱 I’m currently learning software engineering, programming competition. 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
