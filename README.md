@@ -46,6 +46,8 @@ English(coming soon)
 
 ## 資格
 
+基本情報
+
 応用情報
 
 G検定 2022/3
