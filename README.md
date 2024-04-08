@@ -61,7 +61,7 @@ G検定 2022/3
 
 
 ## リンク
-[Qiita](https://qiita.com/uriboo)
+[Qiita](https://qiita.com/uriuriboo)
 
 [Zenn](https://zenn.dev/)
 
