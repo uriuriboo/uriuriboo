@@ -13,8 +13,20 @@
   <a href="http://qiita.com/uriuriboo">
     <img height="20" src="https://qiita-badge.apiapi.app/s/uriuriboo/contributions.svg" />
   </a>
+  <a href="https://zenn.dev/rokkouribo">
+    <img src="https://badgen.org/img/zenn/rokkouribo/followers?style=plastic" alt="Followers" />
+  </a>
+  <a href="https://zenn.dev/rokkouribo?tab=scraps"
+    ><img src="https://badgen.org/img/zenn/rokkouribo/scraps?style=plastic" alt="Scraps" />
+  </a>
   <a href="https://zenn.dev//rokkouribo">
     <img height="20" src="https://badgen.org/img/zenn/rokkouribo/articles?style=plastic" />
+  </a>
+  <a href="https://zenn.dev//rokkouribo">
+    <img height="20" src="https://badgen.org/img/zenn/rokkouribo/books?style=plastic" />
+  </a>
+  <a href="https://zenn.dev/rokkouribo">
+    <img src="https://badgen.org/img/zenn/rokkouribo/likes?style=plastic" alt="Likes" />
   </a>
 </p>
 
