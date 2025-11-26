@@ -7,11 +7,11 @@
   <a href="https://github.com/uriuriboo">
     <img height="20" src="https://img.shields.io/github/followers/uriuriboo?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://qiita.com/uriuriboo">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/uriuriboo/posts.svg" />
+  <a href="https://qiita.com/rokkouribo">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/rokkouribo/posts.svg" />
   </a>
-  <a href="http://qiita.com/uriuriboo">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/uriuriboo/contributions.svg" />
+  <a href="http://qiita.com/rokkouribo">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/rokkouribo/contributions.svg" />
   </a>
   <a href="https://zenn.dev/rokkouribo">
     <img src="https://badgen.org/img/zenn/rokkouribo/followers?style=plastic" alt="Followers" />
