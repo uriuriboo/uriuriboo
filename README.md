@@ -30,7 +30,6 @@
   </a>
 </p>
 
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uriuriboo&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uriuriboo&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uriuriboo&theme=gruvbox)
@@ -42,6 +41,7 @@
 English(coming soon)
 
 ## 学生生活
+
 ソフトウェア工学を専攻していました。
 
 ### 業績
@@ -58,23 +58,23 @@ English(coming soon)
 
 ## 資格
 
-基本情報
-
-応用情報
-
-G検定 2022/3
-
+- 基本情報
+- 応用情報
+- Linux Essentials
+- G検定 2022/3
 
 ## 気になっていること
-電子工作
 
+- 電子工作
+- Web開発
 
 ## 趣味
+
 - 旅行
 - サブカル関係のもの  
 
-
 ## リンク
+
 [Qiita](https://qiita.com/uriuriboo)
 
 [Zenn](https://zenn.dev/)
@@ -82,4 +82,3 @@ G検定 2022/3
 [LeetCode](https://leetcode.com/uriboo/)
 
 [Kaggle](https://www.kaggle.com/uriboo)
-
